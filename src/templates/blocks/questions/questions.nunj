@@ -1,0 +1,48 @@
+<section class="questions">
+	<div class="container">
+		<div class="section__inner">
+			<h2 class="section__subtitle">
+				<strong>Часто задаваемые вопросы</strong>
+			</h2>
+			<ul class="questions__list">
+				<li class="questions__item accordion__item">
+					<button class="btn questions__btn accordion__control" aria-expanded="false">
+						<span class="questions__name">Подходит ли мне программа обучения?</span>
+						<span class="questions__btn-plus"></span>
+					</button>
+					<div class="questions__content accordion__content" aria-hidden="true">
+						<p class="questions__answer">Программа подходит как для практикующих дизайнеров интерьеров, так и для тех, кому интресн только 3D моделирование и визуализация.
+						</p>
+					</div>
+				</li>
+				<li class="questions__item accordion__item">
+					<button class="btn questions__btn accordion__control" aria-expanded="false">
+						<span class="questions__name">Как проходит обучение?</span>
+						<span class="questions__btn-plus"></span>
+					</button>
+					<div class="questions__content accordion__content" aria-hidden="true">
+						<p class="questions__answer">Обучение проходит в офлайн формате. Под руководством преподавателя вы осваиваете важные части программы, преподаватель всегдя рядом и оперативно может помочь, дать обратную связь.</p>
+					</div>
+				</li>
+				<li class="questions__item accordion__item">
+					<button class="btn questions__btn accordion__control" aria-expanded="false">
+						<span class="questions__name">Какие есть варианты оплаты обучения?</span>
+						<span class="questions__btn-plus"></span>
+					</button>
+					<div class="questions__content accordion__content" aria-hidden="true">
+						<p class="questions__answer">Вы можете оплатить курс целиком и получить скидку в размере - 5%. Также доступна рассрочка на 6 равных платежей.</p>
+					</div>
+				</li>
+				<li class="questions__item accordion__item">
+					<button class="btn questions__btn accordion__control" aria-expanded="false">
+						<span class="questions__name">Как вы помогаете с трудоустройством?</span>
+						<span class="questions__btn-plus"></span>
+					</button>
+					<div class="questions__content accordion__content" aria-hidden="true">
+						<p class="questions__answer">Мы сотрудничаем с компаниями в сфере дизайна интерьера, магазинами и производствами. Мы рекомендуем их лучших выпускников для сотрудничества.</p>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+</section>

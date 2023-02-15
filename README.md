@@ -1,1 +1,1 @@
-# re-design.by-Academic-plastic-drawing
+# https://re-design-Academic-plastic-drawing.netlify.app/

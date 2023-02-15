@@ -1,0 +1,34 @@
+<section class="whoIsDesigner">
+	<div class="container">
+		<div class="section__inner">
+			<h2 class="section__title">Кто такой 3D - визуализатор?</h2>
+			<h2 class="section__subtitle">Мы дадим вам <strong>профессиональные знания и навыки,</strong> чтобы вы могли сразу устроиться на <strong>работу в компанию или начать работать на фрилансе.</strong>
+			</h2>
+			<div class="whoIsDesigner__content">
+				<div class="whoIsDesigner__img-wrap">
+					<img class="whoIsDesigner__img lazyload" src="#" data-src="assets/images/main/whoIsDesigner.jpg" width="450" height="550" loading="lazy" alt="">
+				</div>
+				<div class="whoIsDesigner__info">
+					<div class="whoIsDesigner__text-wrap">
+						<p class="whoIsDesigner__text">
+							<strong>3D - визуализатор -</strong> Специалист, который создает 3D модели, изображения, объекты с использоваем компьютерных программ.</p>
+						<p class="whoIsDesigner__text">Профессия 3D визуализатора востребована в различных сферах: в дизайне интерьеров, архитектуре, производстве мебели, материалов, и даже рекламе, при проектировании выставочных пространств.</p>
+					</div>
+					<div class="whoIsDesigner__numbers numbers">
+						<ul class="numbers__list">
+							<li class="numbers__item">
+								<div class="numbers__digit">2600</div>
+								<span class="numbers__desc">рублей, средняя зарплата специалиста</span>
+							</li>
+							<li class="numbers__item">
+								<div class="numbers__digit">140</div>
+								<span class="numbers__desc">вакансий на графического дизайнера по версии <strong>rabota.by</strong>
+								</span>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>

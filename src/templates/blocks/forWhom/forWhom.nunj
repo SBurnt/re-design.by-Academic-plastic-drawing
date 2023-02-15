@@ -1,0 +1,27 @@
+<section class="forWhom">
+	<div class="container">
+		<div class="section__inner">
+			<h2 class="section__title">Кому подойдет курс?</h2>
+
+			<ul class="forWhom__list">
+				<li class="forWhom__item">
+					<div class="forWhom__number">1</div>
+					<h3 class="forWhom__title">Тем кто хочет стать дизайнером интерьеров</h3>
+					<p class="forWhom__desc">Практикующим дизайнерам интерьеров, архитекторам, которые хотели бы научиться делать 3D визуализацию для своих проектов</p>
+				</li>
+				<li class="forWhom__item">
+					<div class="forWhom__number">2</div>
+					<h3 class="forWhom__title">Тем кто уже овладел начальными знаниями специальности</h3>
+					<p class="forWhom__desc">Начинающим специалистам, студентам творческих специальностей, которые только начинают свою карьеру в сфере дизайна интерьеров и интересуются визуализацией</p>
+				</li>
+				<li class="forWhom__item">
+					<div class="forWhom__number">3</div>
+					<h3 class="forWhom__title">Дизайнерам интерьеров</h3>
+					<p class="forWhom__desc">Людям, которым интересно создавать модели, 3D объекты, кто хочет чтобы  3D моделирование стало его профессией</p>
+				</li>
+			</ul>
+
+			<button class="btn red js-btn-scroll-to-form" data-scroll-block="form-scroll" data-type="Записаться на курс">записаться на курс</button>
+		</div>
+	</div>
+</section>
