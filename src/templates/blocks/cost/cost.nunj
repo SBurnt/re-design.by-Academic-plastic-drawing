@@ -3,36 +3,36 @@
 		<div class="section__inner">
 			<div class='cost__wrap-title'>
 				<h2 class="section__subtitle">Стоимость	<strong>и продолжительность</strong> обучения</h2>
-				<h2 class="section__title right">Покупка курса по модулям</h2>
+				<h2 class="section__title right">Покупка курса</h2>
 			</div>
 			<ul class="cost__list">
 				<li class="cost__item item">
 					<div class="item__wrapper">
-						<span class="item__title">Первый модуль</span>
+						{# <span class="item__title">Первый модуль</span> #}
 						<div class="item__duration">Длительность:
-							<span>12 месяцев</span>
+							<span>7 месяцев</span>
 						</div>
 						<div class="item__start">Старт курса:
-							<span>19 марта 2022</span>
+							<span>20 марта 2023</span>
 						</div>
-						<p class="item__desc">Первый модуль (Дизайн интерьера) - 12 месяцев. Стоимость модуля при уплате в 12 взносов - 295 руб/мес.</p>
-						<button class="btn red item__btn js-btn-scroll-to-form" data-scroll-block="form-scroll" data-type="Первый модуль">купить</button>
+						<p class="item__desc">Стоимость курса при уплате в 7 взносов - 228 руб/мес.</p>
+						<button class="btn red item__btn js-btn-scroll-to-form" data-scroll-block="form-scroll" data-type="Покупка по месяцам">купить</button>
 					</div>
 				</li>
 				<li class="cost__item item">
 					<div class="item__wrapper">
-						<span class="item__title">Второй модуль</span>
+						{# <span class="item__title">Второй модуль</span> #}
 						<div class="item__duration">Длительность:
-							<span>6 месяцев</span>
+							<span>7 месяцев</span>
 						</div>
 						<div class="item__start">Старт курса:
-							<span>19 марта 2023</span>
+							<span>20 марта 2023</span>
 						</div>
-						<p class="item__desc">Второй модуль (интерьерная визуализация в 3Ds MAX)  - 6 месяцев. Стоимость модуля при уплате в 6 взносов - 295 руб/мес.</p>
-						<button class="btn red item__btn js-btn-scroll-to-form" data-scroll-block="form-scroll" data-type="Второй модуль">купить</button>
+						<p class="item__desc">Стоимость курса при уплате за весь курс одним платежом - 1516 руб.</p>
+						<button class="btn red item__btn js-btn-scroll-to-form" data-scroll-block="form-scroll" data-type="Покупка одним платежом">купить</button>
 					</div>
 				</li>
-				<li class="cost__item item">
+				{# <li class="cost__item item">
 					<div class="item__wrapper">
 						<span class="item__title">Полный курс</span>
 						<div class="item__duration">Длительность:
@@ -44,7 +44,7 @@
 						<p class="item__desc">Полный курс, состоящий из двух модулей - 18 месяцев. Стоимость модуля при уплате в 18 взносов  - 295 руб/мес.</p>
 						<button class="btn red item__btn js-btn-scroll-to-form" data-scroll-block="form-scroll" data-type="Полный курс">купить</button>
 					</div>
-				</li>
+				</li> #}
 			</ul>
 		</div>
 	</div>

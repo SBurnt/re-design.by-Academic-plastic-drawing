@@ -34,10 +34,9 @@
 			</div>
 			<div class="profession__content">
 				<h2 class="section__title">Профессия</h2>
-				<h2 class="profession__desc">Интерьерная<br> визуализация в<br>
-					<strong>3Ds MAX</strong>
+				<h2 class="profession__desc">Академический<br>рисунок.<br>Пластическая<br>анатомия
 				</h2>
-				<span class="profession__startDate">Старт обучения с 19 марта</span>
+				<span class="profession__startDate">Старт обучения 20 марта 2023 года</span>
 				<button class="btn red js-btn-scroll-to-form" data-scroll-block="form-scroll" data-type="Записаться на курс">записаться на курс</button>
 				<div class="slider__arrows-wrap">
 					<button class="btn slider__arrows-prev">

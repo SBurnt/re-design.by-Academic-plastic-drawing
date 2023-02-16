@@ -30,32 +30,34 @@
 						<div class="trainingProgram__info accordion__content" aria-hidden="true">
 							{# <p class="trainingProgram__desc">1 семестр 6 месяцев обучения</p> #}
 							<ul class="trainingProgram__list-tech">
-								<li class="trainingProgram__list-item">Моделирование</li>
-								<li class="trainingProgram__list-item">Погружение в 3Ds MAX, знакоство с интерфейсом программы и навигацией</li>
-								<li class="trainingProgram__list-item">Знакомство с примитивами</li>
-								<li class="trainingProgram__list-item">Работа с массивами, выравниванием, модификаторами</li>
-								<li class="trainingProgram__list-item">Основные (простейшие) типы освещения Corona</li>
-								<li class="trainingProgram__list-item">Основные свойства материалов</li>
-								<li class="trainingProgram__list-item">Основы сплайнового моделирования</li>
-								<li class="trainingProgram__list-item">Основы полигонального моделирования</li>
-								<li class="trainingProgram__list-item">Знакомство с основными командами, свойствами и особенностями полигональных объектов</li>
-								<li class="trainingProgram__list-item">Создание объекта с помощью моделирования под сглаживание</li>
-								<li class="trainingProgram__list-item">Особенности работы с разверткой</li>
-								<li class="trainingProgram__list-item">Сложные материалы</li>
-								<li class="trainingProgram__list-item">Текстурирование объектов, редактирование материалов на готовых моделях</li>
-								<li class="trainingProgram__list-item">Работа с программой Marvelous Designer или модификатором Cloth</li>
-								<li class="trainingProgram__list-item">Работа с интерьерным освещением</li>
-								<li class="trainingProgram__list-item">Подготовка источников естественного и искусственного света</li>
-								<li class="trainingProgram__list-item">Render Elements</li>
-								<li class="trainingProgram__list-item">Настройка и обработка рендера</li>
+								<li class="trainingProgram__list-item">Светотень. Освещение и основные законы передачи объёма круглой формы</li>
+								<li class="trainingProgram__list-item">Круглая форма, сложносоставная</li>
+								<li class="trainingProgram__list-item">Законы передачи пространства</li>
+								<li class="trainingProgram__list-item">Построение перспективы</li>
+								<li class="trainingProgram__list-item">Гранёные объекты</li>
+								<li class="trainingProgram__list-item">Построение окружности в перспективе</li>
+								<li class="trainingProgram__list-item">Эллипсы в наклоне</li>
+								<li class="trainingProgram__list-item">Объёмно-пространственное мышление</li>
+								<li class="trainingProgram__list-item">Натюрморт</li>
+								<li class="trainingProgram__list-item">Передача материала</li>
+								<li class="trainingProgram__list-item">Череп</li>
+								<li class="trainingProgram__list-item">Анатомия шеи</li>
+								<li class="trainingProgram__list-item">Части лица</li>
+								<li class="trainingProgram__list-item">Глаза</li>
+								<li class="trainingProgram__list-item">Губы</li>
+								<li class="trainingProgram__list-item">Ухо</li>
+								<li class="trainingProgram__list-item">Голова</li>
+								<li class="trainingProgram__list-item">Пропорции человека</li>
+								<li class="trainingProgram__list-item">Скелет грудной клетки</li>
+								<li class="trainingProgram__list-item">Скелет верхней конечности</li>
+								<li class="trainingProgram__list-item">Локтевой сустав</li>
+								<li class="trainingProgram__list-item">Таз</li>
+								<li class="trainingProgram__list-item">Плечо, мышцы. Плечевой пояс.</li>
+								<li class="trainingProgram__list-item">Грудная клетка, мышцы. Мышцы лопатки</li>
+								<li class="trainingProgram__list-item">Предплечье</li>
 
-								{# <p class="trainingProgram__desc">Бонус программы!</p> #}
-								<span class="trainingProgram__title" style="padding-top:20px;">Бонус программы!</span>
-								<li class="trainingProgram__list-item">Мы расскажем вам о том, как нужно создавать личный бренд</li>
-								<li class="trainingProgram__list-item">О способах выбора рекламы</li>
-								<li class="trainingProgram__list-item">О работе в социальных сетях</li>
-								<li class="trainingProgram__list-item">Особенности индивидуальной работы</li>
-								<li class="trainingProgram__list-item">Регистрация ИП, самозанятость</li>
+								{# <span class="trainingProgram__title" style="padding-top:20px;">Бонус программы!</span> #}
+								{# <li class="trainingProgram__list-item">О способах выбора рекламы</li> #}
 							</ul>
 						</div>
 					</li>

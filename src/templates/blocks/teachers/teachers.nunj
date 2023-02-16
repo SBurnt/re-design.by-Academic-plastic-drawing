@@ -10,15 +10,15 @@
 					<ul class="swiper-wrapper teachers__list">
 						<li class="swiper-slide teachers__item">
 							<div class="teachers__img-wrap">
-								<img class="teachers__img lazyload" data-src="assets/images/main/teachers/петринч-removebg-preview.png" loading="lazy" alt="Елена Петринич">
+								<img class="teachers__img lazyload" src="#" data-src="assets/images/main/teachers/швайба-removebg-preview.png" width="370" height="420" loading="lazy" alt="Всеволод Швайба">
 							</div>
-							<span class="teachers__name">Елена Петринич</span>
+							<span class="teachers__name">Всеволод Швайба</span>
 							<span class="teachers__experience">Куратор и преподаватель программы</span>
-							<p class="teachers__desc">Более 5 лет преподавала теорию и практику интерьерного дизайна, а также AutoCad и 3dsMax. Автор курсов по теории дизайна интерьера, AutoCad и 3dsMax. Два года сотрудничала с минским проектом "Открытый лекторий" - вела лекции по истории архитектуры, истории искусств и истории дизайна - больше 20 лекций по истории дизайна и архитектуры Соавтор курсов по интерьерному дизайну и визуализации в московской академии дизайн профессий PentaSchool Работала ведущим дизайнером интерьера в Дизайн-студии Zox.</p>
+							<p class="teachers__desc">Член Молодежной секции Белорусского союза художников. Проведено несколько персональных выставок Всеволода Швайба. Среди них выставка в Национальном художественном музее Республики Беларусь и выставка в Берлине (обе в 2015 году). Принимал участие со своими картинами и графикой во многих коллективных выставках.</p>
 						</li>
 						<!-- <li class="swiper-slide teachers__item">
 							<div class="teachers__img-wrap">
-								<img class="teachers__img lazyload" data-src="assets/images/main/teachers/кольга.png" loading="lazy" alt="Андрей Кольга">
+								<img class="teachers__img lazyload" src="#" data-src="assets/images/main/teachers/кольга.png" width="370" height="420" loading="lazy" alt="Андрей Кольга">
 							</div>
 							<span class="teachers__name">Андрей Кольга</span>
 							<span class="teachers__experience">Более 15-ти лет опыта</span>
@@ -26,7 +26,7 @@
 						</li> -->
 						<!-- <li class="swiper-slide teachers__item">
 							<div class="teachers__img-wrap">
-								<img class="teachers__img lazyload" data-src="assets/images/main/teachers/кахно-removebg-preview.png" loading="lazy" alt="Евгения Кахно">
+								<img class="teachers__img lazyload" src="#" data-src="assets/images/main/teachers/кахно-removebg-preview.png" width="370" height="420" loading="lazy" alt="Евгения Кахно">
 							</div>
 							<span class="teachers__name">Евгения Кахно</span>
 							<span class="teachers__experience">Более 6-ти лет опыта</span>
@@ -51,17 +51,17 @@
 						<!-- be sure to add a class 'swiper-slide-thumb-active' to the first item -->
 						<li class="swiper-slide teachers__item-thumbs swiper-slide-thumb-active">
 							<div class="teachers__img-wrap-thumbs">
-								<img class="teachers__img-thumbs lazyload" data-src="assets/images/main/teachers/петринч-removebg-preview.png" loading="lazy" alt="Елена Петринич">
+								<img class="teachers__img-thumbs lazyload" src="#" data-src="assets/images/main/teachers/швайба-removebg-preview.png" width="300" height="350" loading="lazy" alt="Всеволод Швайба">
 							</div>
 						</li>
 						<!-- <li class="swiper-slide teachers__item-thumbs">
 							<div class="teachers__img-wrap-thumbs">
-								<img class="teachers__img-thumbs lazyload" data-src="assets/images/main/teachers/кольга.png" loading="lazy" alt="Андрей Кольга">
+								<img class="teachers__img-thumbs lazyload" src="#" data-src="assets/images/main/teachers/кольга.png" width="300" height="350" loading="lazy" alt="Андрей Кольга">
 							</div>
 						</li> -->
 						<!-- <li class="swiper-slide teachers__item-thumbs">
 							<div class="teachers__img-wrap-thumbs">
-								<img class="teachers__img-thumbs lazyload" data-src="assets/images/main/teachers/кахно-removebg-preview.png" loading="lazy" alt="Евгения Кахно">
+								<img class="teachers__img-thumbs lazyload" src="#" data-src="assets/images/main/teachers/кахно-removebg-preview.png" width="300" height="350" loading="lazy" alt="Евгения Кахно">
 							</div>
 						</li> -->
 					</ul>

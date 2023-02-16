@@ -3,22 +3,17 @@
 		<div class="section__inner line">
 			<h2 class="section__title">Программы и движки</h2>
 			<h2 class="section__subtitle">
-				На курсе <strong>вы сможете овладеть</strong> такими программами как <strong>3Ds MAX, Corona Renderer, Marvelous Designer.</strong>
+				На курсе <strong>вы сможете овладеть</strong> такими программами как <strong>Adobe Photoshop, Procreate.</strong>
 			</h2>
 			<ul class="tools__list">
 				<li class="tools__item">
 					<div class="tools__img-wrap">
-						<img class="tools__img lazyload" src="#" data-src="assets/images/ico/tools/tool-3dsmax.svg" width="120" height="120" loading="lazy" alt="ico tool 3ds max">
+						<img class="tools__img lazyload" src="#" data-src="assets/images/ico/tools/tool-photoshop.svg" width="120" height="120" loading="lazy" alt="ico tool-photoshop">
 					</div>
 				</li>
 				<li class="tools__item">
 					<div class="tools__img-wrap">
-						<img class="tools__img lazyload" src="#" data-src="assets/images/ico/tools/tool-corona.png" width="120" height="120" loading="lazy" alt="ico tool Corona Renderer">
-					</div>
-				</li>
-				<li class="tools__item">
-					<div class="tools__img-wrap">
-						<img class="tools__img lazyload" src="#" data-src="assets/images/ico/tools/tool-marvelous.png" width="120" height="120" loading="lazy" alt="ico tool Marvelous Designer">
+						<img class="tools__img lazyload" src="#" data-src="assets/images/ico/tools/tool-procreate.png" width="120" height="120" loading="lazy" alt="ico tool-procreate">
 					</div>
 				</li>
 			</ul>

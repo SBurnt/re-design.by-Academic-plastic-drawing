@@ -4,9 +4,9 @@
 		<meta charset="UTF-8"/>
 		{# <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/> #}
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="description" content="Интерьерная визуализация в 3Ds MAX, Re-design">
+		<meta name="description" content="Академический рисунок. Пластическая анатомия, Re-design">
 		<title>
-			{% block title %}Re:Dedign - Интерьерная визуализация в 3Ds MAX{% endblock %}
+			{% block title %}Re:Dedign - Академический рисунок. Пластическая анатомия{% endblock %}
 		</title>
 
 		{# favicon-generator.org #}

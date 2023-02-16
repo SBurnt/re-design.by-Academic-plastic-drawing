@@ -27,7 +27,7 @@
 				<li class="education__item accordion__item">
 					<span class="education__title">Подготовка итогового прокта.</span>
 					<div class="education__info accordion__content" aria-hidden="true">
-						<p class="education__desc">Итогом обучения на курсе будет выполнение проекта, основанного на рельных заданиях.</p>
+						<p class="education__desc">Просмотр работ.</p>
 					</div>
 					<button class="btn education__btn accordion__control" aria-expanded="false">
 						<span class="education__btn-plus"></span>

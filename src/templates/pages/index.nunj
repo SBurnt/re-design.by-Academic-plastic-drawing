@@ -4,15 +4,15 @@
 
 	<main class="main">
 		{% include '../blocks/profession/profession.nunj' %}
-		{% include '../blocks/whoIsDesigner/whoIsDesigner.nunj' %}
+		{# {% include '../blocks/whoIsDesigner/whoIsDesigner.nunj' %} #}
 		{% include "../blocks/forWhom/forWhom.nunj" %}
-		{% include "../blocks/help/help.nunj" %}
+		{# {% include "../blocks/help/help.nunj" %} #}
 		{% include "../blocks/form/form.nunj" %}
 		{% include "../blocks/trainingProgram/trainingProgram.nunj" %}
 		{% include "../blocks/tools/tools.nunj" %}
 		{% include "../blocks/skills/skills.nunj" %}
 		{% include "../blocks/education/education.nunj" %}
-		{% include "../blocks/whoWork/whoWork.nunj" %}
+		{# {% include "../blocks/whoWork/whoWork.nunj" %} #}
 		{% include "../blocks/ticker/ticker.nunj" %}
 		{% include "../blocks/teachers/teachers.nunj" %}
 		{% include "../blocks/certificate/certificate.nunj" %}

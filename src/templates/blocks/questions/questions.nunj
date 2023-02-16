@@ -11,7 +11,7 @@
 						<span class="questions__btn-plus"></span>
 					</button>
 					<div class="questions__content accordion__content" aria-hidden="true">
-						<p class="questions__answer">Программа подходит как для практикующих дизайнеров интерьеров, так и для тех, кому интресн только 3D моделирование и визуализация.
+						<p class="questions__answer">Программа подойдет вам, если вы хотите развиваться как художник по персонажам.
 						</p>
 					</div>
 				</li>
@@ -30,16 +30,7 @@
 						<span class="questions__btn-plus"></span>
 					</button>
 					<div class="questions__content accordion__content" aria-hidden="true">
-						<p class="questions__answer">Вы можете оплатить курс целиком и получить скидку в размере - 5%. Также доступна рассрочка на 6 равных платежей.</p>
-					</div>
-				</li>
-				<li class="questions__item accordion__item">
-					<button class="btn questions__btn accordion__control" aria-expanded="false">
-						<span class="questions__name">Как вы помогаете с трудоустройством?</span>
-						<span class="questions__btn-plus"></span>
-					</button>
-					<div class="questions__content accordion__content" aria-hidden="true">
-						<p class="questions__answer">Мы сотрудничаем с компаниями в сфере дизайна интерьера, магазинами и производствами. Мы рекомендуем их лучших выпускников для сотрудничества.</p>
+						<p class="questions__answer">Вы можете оплатить курс целиком и получить скидку в размере - 5%. Также доступна рассрочка на 7 равных платежей.</p>
 					</div>
 				</li>
 			</ul>
